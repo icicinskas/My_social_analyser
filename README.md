@@ -1,6 +1,6 @@
 # My_social_analyser
 Privacy Policy
-Last updated: [2024-05-XX]
+Last updated: [2024-05-25]
 1. Introduction
 This Privacy Policy describes how My Social Analyzer ("we", "us", or "our") collects, uses, and protects your personal information when you use our web application.
 2. Information We Collect
